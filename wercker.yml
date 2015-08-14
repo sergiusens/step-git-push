@@ -1,7 +1,7 @@
 box: debian
 build:
   steps:
-    - script:
+#    - script:
 #       name: Run integration tests
 #       code: bash tests/integration.sh
     - script:
